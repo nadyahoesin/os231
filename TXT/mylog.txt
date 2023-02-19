@@ -8,6 +8,6 @@ ZCZC W00 15 L02 GitHub related
 ZCZC W00 30 L03 Scele related
 ZCZC W00 75 L04 Weekly assignments
 ZCZC W01 30 L00 General, etc
-ZCZC W00 15 L01 GitHub related
-ZCZC W00 30 L02 Scele related
-ZCZC W00 90 L03 Weekly assignments
+ZCZC W01 15 L01 GitHub related
+ZCZC W01 30 L02 Scele related
+ZCZC W01 90 L03 Weekly assignments
